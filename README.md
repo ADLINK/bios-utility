@@ -120,7 +120,7 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Select any entry on the left side and change its visibility. For example, to hide “Bluetooth Sideband”.
 
-<img src="README.assets//bmt_hide.png" alt="Application screen" />
+<img src="README.assets//bmt_hide.png =250x250" alt="Application screen" />
 
 2. After modification, any changes will be highlight and log, then save as new ROM file.
 
