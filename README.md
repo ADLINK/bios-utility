@@ -86,6 +86,8 @@ The AFUWIN module can be downloaded here :
 
 https://ami.com/en/?Aptio_V_AMI_Firmware_Update_Utility.zip
 
+![AFU_600x400](README.assets/AFU_600x400.png)
+
 This AFUWIN program can be used to both extract and flash BIOS. 
 
 
@@ -177,19 +179,19 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 It needs using AMI flash utility to upgrade BIOS, please refer to the following steps:
 
-1. Please go the link of AMI Firmware Update utilities: [click here!](https://ami.com/en/products/firmware-tools-and-utilities/bios-uefi-utilities/) 
+1. Please download AMI Firmware Update utilities:
 
-2. Please download AMI Firmware Update utilities - “Aptio V”
+   ​    https://ami.com/en/?Aptio_V_AMI_Firmware_Update_Utility.zip
 
 <img src="README.assets/bios_uefi_tool.png" />
 
-3. Please copy AMI Firmware Update utilities “AfuEfix64.efi” & modified BIOS to USB drive.
+2. Please copy AMI Firmware Update utilities “AfuEfix64.efi” & modified BIOS to USB drive.
 
-4. Please enter BIOS menu and choose “UEFI: Built-in EFI Shell” in Override” to go into BIOS Shell mode.
+3. Please enter BIOS menu and choose “UEFI: Built-in EFI Shell” in Override” to go into BIOS Shell mode.
 
 <img src="README.assets/bios_uefi.jpg" width="600" />
 
-5. Please enter the following commands to look for the files on USB drive:
+4. Please enter the following commands to look for the files on USB drive:
 
 ```
 Shell> fs1:
