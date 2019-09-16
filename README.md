@@ -1,7 +1,5 @@
 
-
-
-## What is BMT ?
+#  What is BMT ?
 
 The BIOS Modification Tool allows end users
 to modify parameters in the System BIOS without need to recompile the BIOS. All modifications are carried out on the binary file copy of a System BIOS. 
@@ -69,7 +67,7 @@ So most of the below BIOS modification would normally be carried out on a standa
 
 
 
-###  Basic principle
+##  Basic principle
 
 To modify a BIOS you will go through the following major steps
 
@@ -80,7 +78,7 @@ To modify a BIOS you will go through the following major steps
 
 
 
-###  How to get a binary copy of your target BIOS
+## How to get a binary copy of your target BIOS
 
 Simplest way to get a binary file copy of the BIOS of the target COM this is to run Windows 7/8/10 on the target and extract the module's BIOS with a AMI's AFUWIN utility. 
 
