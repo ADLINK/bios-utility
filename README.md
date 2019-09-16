@@ -177,7 +177,7 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 It needs using AMI flash utility to upgrade BIOS, please refer to the following steps:
 
-1. Please go the link of AMI Firmware Update utilities: https://ami.com/en/products/firmware-tools-and-utilities/bios-uefi-utilities/
+1. Please go the link of AMI Firmware Update utilities: [click here!](https://ami.com/en/products/firmware-tools-and-utilities/bios-uefi-utilities/) 
 
 2. Please download AMI Firmware Update utilities - “Aptio V”
 
