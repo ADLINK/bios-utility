@@ -20,9 +20,7 @@ strings, and SMBIOS string data can all be modified with this single tool.<br>Th
 
 ## Supported Operating Systems
 The BMT utility is support to run on a host system that supports 
-
 - Windows 7 32-bit / 64-bit
-
 - Windows 10 64-bit
 
   
@@ -177,7 +175,7 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 
 
-## How to Flash BIOS[¶](#how-to-flash-bios)
+## How to Flash BIOS
 
 It needs using AMI flash utility to upgrade BIOS, please refer to the following steps:
 
