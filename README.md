@@ -100,19 +100,19 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Go to `File` > `open` to load a BIOS ROM file
 
-<img src="README.assets/bmt_open.png" alt="img" />
+<img src="README.assets/bmt_open.png"  width="600"/>
 
 2. Once loaded successfully, All of entries will be shown.
 
-<img src="README.assets/bmt_loaded.png" alt="bmt_loaded" />
+<img src="README.assets/bmt_loaded.png"  width="600" />
 
 3. For example, modify the name from “North Bridge” to “NB”
 
-<img src="README.assets//bmt_change_entry.png" alt="Application screen" />
+<img src="README.assets//bmt_change_entry.png"  width="600"/>
 
 4. After modification, any changes will be highlight and log, then save as new ROM file.
 
-<img src="README.assets/bmt_change_entry_save.png" alt="Application screen" />
+<img src="README.assets/bmt_change_entry_save.png"  width="600" />
 
 ### 2. Change Visibility
 
@@ -120,11 +120,11 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Select any entry on the left side and change its visibility. For example, to hide “Bluetooth Sideband”.
 
-<img src="README.assets//bmt_hide.png" alt="Application screen"  width="200" height="400" />
+<img src="README.assets//bmt_hide.png"  width="600" />
 
 2. After modification, any changes will be highlight and log, then save as new ROM file.
 
-<img src="README.assets//bmt_hide_done.png" alt="Application screen"  />
+<img src="README.assets//bmt_hide_done.png"  width="600" />
 
 ### 3. Set Default Values
 
@@ -132,11 +132,11 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Select any entry on the left side and choose the values as the default on the right drop-list.
 
-<img src="README.assets//bmt_set_default.png" alt="Application screen" />
+<img src="README.assets//bmt_set_default.png"   width="600"/>
 
 2. After modification, any changes will be highlight and log, then save as new ROM file.
 
-<img src="README.assets//bmt_set_default_done.png" alt="Application screen"  />
+<img src="README.assets//bmt_set_default_done.png" width="600"  />
 
 ### 4. Change DMI Information
 
@@ -144,7 +144,7 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Go to DMI Table and double click which one you would like to configure. For example, “Baseboard or Module Information”:
 
-<img src="README.assets//bmt_dmi_done.png" alt="Application screen"  />
+<img src="README.assets//bmt_dmi_done.png" width="600" />
 
 ### 5. Track Changes
 
@@ -152,11 +152,11 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Click “Full track logo” button to see all of changes
 
-<img src="README.assets//bmt_change_log.png" alt="Application screen" />
+<img src="README.assets//bmt_change_log.png" width="600" />
 
 2. Click “Save track” button to save as log file.
 
-<img src="README.assets//bmt_save_log.png" alt="Application screen"  />
+<img src="README.assets//bmt_save_log.png" width="600"  />
 
 ### 6. Import setting
 
@@ -164,15 +164,15 @@ This AFUWIN program can be used to both extract and flash BIOS.
 
 1. Click “Import setting” button to load the change log you stored before.
 
-<img src="README.assets//bmt_import.png" alt="Application screen"  />
+<img src="README.assets//bmt_import.png" width="600"  />
 
 2. To load the log file on local computer.
 
-<img src="README.assets/bmt_import_log.png" alt="Application screen"  />
+<img src="README.assets/bmt_import_log.png" width="600" />
 
 3. you will see the history change on the box of Track Log
 
-<img src="README.assets/bmt_import_log_done.png" alt="bmt_import_log_done"  />
+<img src="README.assets/bmt_import_log_done.png" width="600" />
 
 
 
@@ -185,13 +185,13 @@ It needs using AMI flash utility to upgrade BIOS, please refer to the following 
 
 2. Please download AMI Firmware Update utilities - “Aptio V”
 
-<img src="README.assets/bios_uefi_tool.png" alt="../_images/bios_uefi_tool.png" />
+<img src="README.assets/bios_uefi_tool.png" />
 
 3. Please copy AMI Firmware Update utilities “AfuEfix64.efi” & modified BIOS to USB drive.
 
 4. Please enter BIOS menu and choose “UEFI: Built-in EFI Shell” in Override” to go into BIOS Shell mode.
 
-<img src="README.assets/bios_uefi.jpg" alt="../_images/bios_uefi.png"  />
+<img src="README.assets/bios_uefi.jpg" width="600" />
 
 5. Please enter the following commands to look for the files on USB drive:
 
@@ -207,8 +207,8 @@ FS1:\> ls
 
 **Note:** you can see the location of USB drive after enter Shell module, ex: fs0 ~ fs3
 
-<img src="README.assets//bios_shell.png" alt="../_images/bios_shell.png"  />
+<img src="README.assets//bios_shell.png" width="600" />
 
 6. Please enter following command to flash until the utility shows “Process completed”
 
-<img src="README.assets/bios_update_process.png" alt="bios_update_process"  />
+<img src="README.assets/bios_update_process.png" width="600"  />
