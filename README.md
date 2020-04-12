@@ -10,8 +10,7 @@ strings, and SMBIOS string data can all be modified with this single tool.<br>Th
 ## Features
 - Rename Menu entries:     Allow you to renew each node or entries
 - Hide Menu entries :  hide entries to avoid user from modifying entries or just simplifying the BIOS setup
-- Change Defaults :  configure default bootup values to optimize your system 
-- Change default boot order :  
+- Change Defaults boot order:  configure default bootup values to optimize your system 
 - Change DMI Information:  modify logistical DMI data, such as OEM strings
 - Track Changes:  save a copy of all items that can be configured.
 - Import setting:  import your custom setting copy to restart where you left of
