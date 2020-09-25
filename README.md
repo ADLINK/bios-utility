@@ -5,7 +5,7 @@ The BIOS Modification Tool allows end users
 to modify parameters in the System BIOS without need to recompile the BIOS. All modifications are carried out on the binary file copy of a System BIOS. 
 
 Default values for BIOS setup parameters, visibility of menu items, default boot order, sign-on and setup 
-strings, and SMBIOS string data can all be modified with this single tool.<br>The BIOS Modification Tool is a common utility to for all ADLINK's x86 based modules COM/SAMRC/Q7 products. <br>The utility is free to use but will only work on ADLINK enabled BIOS.
+strings, and SMBIOS string data can all be modified with this single tool.<br>The BIOS Modification Tool is a common utility to for all ADLINK's x86 based modules COM/SMARC/Q7 products. <br>The utility is free to use but will only work on ADLINK enabled BIOS.
 
 ## Features
 - Rename Menu entries:     Allow you to renew each node or entries
