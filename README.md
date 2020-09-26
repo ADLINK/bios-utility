@@ -54,11 +54,8 @@ The BMT utility can be used on the following x86 products with AMI Aptio BIOS
 
 1. Before start BMT utility, please [download](https://support.microsoft.com/zh-tw/help/2977003/the-latest-supported-visual-c-downloads) & install **Microsoft Visual C++ Redistributable**.
 
-2. ADLINK's BIOS Utilities are available on GitHub at
+2. ADLINK's BIOS Utilities are available on this [link](https://hq0epm0west0us0storage.blob.core.windows.net/public/BMT-utility/BMT_2.2.9.zip)
 
-```
-https://github.com/ADLINK/bios-utility
-```
 
 The file to download is a zipped binary, download, unzip it and copy to files to a dedicated directory. There is no need for install, the file can be executed in place simply by double clicking it. 
 
