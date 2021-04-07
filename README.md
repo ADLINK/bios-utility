@@ -82,7 +82,7 @@ Simplest way to get a binary file copy of the BIOS of the target COM this is to 
 
 The AFUWIN module can be downloaded here :
 
-https://ami.com/en/?Aptio_V_AMI_Firmware_Update_Utility.zip
+https://www.ami.com/download/aptio-v-ami-firmware-update-utility/
 
 ![AFU_600x400](README.assets/AFU_600x400.png)
 
